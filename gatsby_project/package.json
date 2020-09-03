@@ -1,0 +1,22 @@
+{
+  "name": "gatsby_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@contentful/rich-text-react-renderer": "^14.1.1",
+    "@contentful/rich-text-types": "^14.1.1",
+    "gatsby": "^2.24.53",
+    "gatsby-source-graphql": "^2.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-tooltip": "^4.2.9"
+  }
+}
